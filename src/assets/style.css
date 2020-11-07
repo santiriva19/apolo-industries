@@ -1,0 +1,188 @@
+
+.contenedorInicio
+{
+    width: 65vw;
+    height: 70vh;
+    background-color: #c0ccf9;
+    border-radius: 15px;
+    border-color: #222e5b !important;
+    border: solid 6px;
+    margin: auto;
+    margin-top: 0.4%;
+    padding-top: 3%;
+    opacity: 0.9;
+    border-color: #222e5b;
+    
+}
+.contenedorResultados
+{
+    width: 40vw;
+    height: 90vh;
+    background-color: #c0ccf9;
+    border-radius: 15px;
+    border-color: #222e5b !important;
+    border: solid 6px;
+    margin: auto;
+    margin-top: 0.4%;
+    padding-top: 3%;
+    opacity: 0.9;
+    border-color: #222e5b;
+    
+}
+.contenedorResultadosExtru
+{
+    width: 60vw;
+    height: 90vh;
+    background-color: #c0ccf9;
+    border-radius: 15px;
+    border-color: #222e5b !important;
+    border: solid 6px;
+    margin: auto;
+    margin-top: 0.4%;
+    padding-top: 3%;
+    opacity: 0.9;
+    border-color: #222e5b;
+    
+}
+.contenedorExtru
+{
+    width: 90vw;
+    height: 90vh;
+    background-color: #c0ccf9;
+    border-radius: 15px;
+    border-color: #222e5b !important;
+    border: solid 6px;
+    margin: auto;
+    margin-top: 0.4%;
+    padding-top: 3%;
+    opacity: 0.9;
+    border-color: #222e5b;
+    
+}
+.textoGrandeInicio
+{
+  font-family: 'arial';
+  color: #222e5b;
+  font-size: 1.5vw;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 6%;
+}
+.textoGrandeResult
+{
+  font-family: 'arial';
+  color: #222e5b;
+  font-size: 1.6vw;
+  font-weight: 600;
+  text-align: center;
+}
+.textoNormal
+{
+  font-family: 'arial';
+  color: #222e5b;
+  font-size: 1.2vw;
+  font-weight: 550;
+  text-align: center;
+  margin-top: 6%;
+}
+.textoNormalExtru
+{
+  font-family: 'arial';
+  color: #222e5b;
+  font-size: 1.1vw;
+  font-weight: 550;
+  text-align: center;
+  margin-top: 1%;
+}
+.logoApp
+{
+    width: 15vw;
+    height: 11vh;
+    float: right;
+    margin-right: 3%;
+    border-radius: 15px;
+}
+.logoU
+{
+    width: 15vw;
+    height: 11vh;
+    float: left;
+    margin-left: 3%;
+
+}
+
+.textoGrandeInputs
+{
+    text-align: center;
+    font-size: 2vw;
+    color: #222e5b;
+    font-weight: 550;
+}
+.textoGrandeResul
+{
+    text-align: center;
+    font-size: 2vw;
+    color: #222e5b;
+    font-weight: 550;
+}
+.customButtonDatos
+{
+    border-radius: 15px;
+    border: solid 0px;
+    font-size: 1.2vw;
+    height: 6vh;
+    width: 10vw;
+    margin-left: 28.3vw;
+    color: azure;
+    background-color: #222e5b;
+}
+.customButtonExtru
+{
+    border-radius: 17px;
+    border: solid 0px;
+    font-size: 1.2vw;
+    height: 7vh;
+    width: 14vw;
+    margin-left: 38.5vw;
+    margin-top: 4vw;
+    color: azure;
+    background-color: #222e5b;
+}
+.customButtonDatosRegresar
+{
+    border-radius: 15px;
+    border: solid 0px;
+    font-size: 1vw;
+    height: 5vh;
+    width: 9vw;
+    color: #222e5b;
+    font-weight: 600;
+    background-color: white;
+}
+.imageDirecta
+{
+    height : 24vh !important;
+    width : 38vh !important;
+    margin-left: auto;
+    margin-right: auto;    
+    background-size: contain;
+    border-radius: 20px;
+    border: solid 0px !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 5px 0 rgba(0, 0, 0, 0.05);
+    background-image: url("../assets/img/directa.png");
+    position: 'relative';
+}
+.imageIndirecta
+{
+    height : 24vh !important;
+    width : 38vh !important;
+    margin-left: auto;
+    margin-right: auto;    
+    background-size: contain;
+    border-radius: 20px;
+    border: solid 0px !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 5px 0 rgba(0, 0, 0, 0.05);
+    background-image: url("../assets/img/indirecta.png");
+    
+
+}
